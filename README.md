@@ -1,1 +1,1 @@
-# base-finder
+base finder is a tool made by @KL_MODDER for find init base ,game farcade base ,lib base offsets of "com.dts.freefireth" this tool requires custom modules to be installed which may requires more than 200mb 
